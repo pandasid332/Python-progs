@@ -1,2 +1,2 @@
 # Python-progs
-<br>sidharth panda<br>
+<br>Author: Sidharth Panda<br>
