@@ -1,4 +1,5 @@
 import functools as fn
+import sys
 while(True):
     print('Enter comma separated value below: ')
     lst=[int(x) for x in input().split(',')]
@@ -58,7 +59,7 @@ while(True):
     if c.upper()=='Y':
         continue
     elif c.upper()=='N':
-            break
+            sys.exit()
     else:
             print('Wrong input. Program terminated')
-            break
+            sys.exit()
