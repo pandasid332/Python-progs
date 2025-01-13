@@ -1,0 +1,1 @@
+class SidError(Exception) : pass
