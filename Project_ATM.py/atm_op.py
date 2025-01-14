@@ -1,6 +1,5 @@
-from data import bal
 from excpt import *
-from data import *
+from data import bal,user
 def bal_inq(u):
     print('Balance in your account is {}'.format(bal.get(u)))
 def withdraw_bal(u):
