@@ -4,11 +4,6 @@ def new_std(n):
     print(n)
     print(n[0])
     print(n[0][0])
-    '''sn=n[0]
-    sno=n[1]
-    scl=n[2]
-    ssec=n[3]
-    sm=n[4]'''
     try:
         con=db_obj()
         cur=con.cursor()
@@ -19,6 +14,7 @@ def new_std(n):
         print(er)
     else:
         print('1 Row inserted sucessfully...')
+        print('{} Inserted records'.format(cur.rowcount))
     finally:
         cur.close()
         con.close()
