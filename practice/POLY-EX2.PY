@@ -1,6 +1,8 @@
 class circle:
-    def __init__(self):
+    def __init__(self,r):
+        self.r=r
         print('\tThis is constuctor in circle class')
+        print('\tRedious is: {}'.format(self.r))
     def draw(self):
         print('\tThis is draw method from circle class')
 
@@ -21,7 +23,7 @@ class rect:
 
 class squre(circle,triangle,rect):
     def __init__(self):
-        circle.__init__(self)
+        circle.__init__(self,5.6)
         triangle.__init__(self)
         rect.__init__(self)
         print('\tThis is constuctor from squre class')
