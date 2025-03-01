@@ -1,0 +1,95 @@
+YouTub for data engineering 
+
+But these 10 will teach you more skills than a 4 year degree.
+
+1. SQL
+https://lnkd.in/dWCVfXsA
+
+2. Python
+https://lnkd.in/dt_-2-Uj
+
+3. Pyspark
+https://lnkd.in/gftSJYJQ
+
+4. Airflow 
+https://lnkd.in/guebuHJ7
+
+5. Kafka - 
+https://lnkd.in/gVZUT52s3
+
+6. Data Modeling
+https://lnkd.in/gg6V98Ru
+
+7. Azure Cloud
+https://lnkd.in/ei8RFGZQ
+
+8. GCP Cloud
+https://lnkd.in/gMzr9yqg
+
+9. AWS Cloud
+https://lnkd.in/gJeUGfjS
+ 
+10. Data Engineering Projects
+https://lnkd.in/gZf6J6fm
+
+20 Data Engineering videos to clear your Interview.
+
+1. RDDs Vs DataFrames Vs Datasets
+https://lnkd.in/gzrRtDFM
+
+2. Apache Spark Optimization techniques
+https://lnkd.in/gmdyB_2z
+
+3. Row based vs Column based file formats 
+https://lnkd.in/g94V-qzn
+
+4. SQL vs NoSQL
+https://lnkd.in/gPP-wjgW
+
+5. Database vs Data Warehouse vs Data Lake
+https://lnkd.in/gE-yUVYW
+
+6. Namenode vs Datanode in Hadoop
+https://lnkd.in/gigEi8wz
+
+7. Fault Tolerance in Hadoop
+https://lnkd.in/ggYq2TVp
+
+8. Internal vs External table in Hive
+https://lnkd.in/g5TKz4ii
+
+9. Hive architecture
+https://lnkd.in/g8CrPaV3
+
+10. MapReduce architecture
+https://lnkd.in/g44av9JD
+
+11. Sqoop Import vs Export
+https://lnkd.in/gDAw5zJz
+
+12. Spark architecture
+https://lnkd.in/gJbumAq7
+
+13. Spark context vs Spark session
+https://lnkd.in/gJJqwmBP
+
+14. Normalization vs denormalization
+https://lnkd.in/g4VE3X-h
+
+15. Narrow Vs Wide Transformations
+https://lnkd.in/gKRtyhTw
+
+16. Partitioning Vs Bucketing
+https://lnkd.in/gHeSfXDz
+
+17. SCD types and use cases
+https://lnkd.in/gB-M5dEM
+
+18. Repartition and Coalesce
+https://lnkd.in/gng5NiMJ
+
+19. Group by key vs reduce by key
+https://lnkd.in/g_pFzKzg
+
+20. Free Data Engineering Content
+https://lnkd.in/gV_5EFtE
